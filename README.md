@@ -1,4 +1,4 @@
-# SPM - Lab 2 
+# Software Project Management - Lab 2 
 ### Topic: UberRUSH
 ### Team Members:
 | Name         | ID        |
